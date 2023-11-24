@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="Ví dụ Uniform Grid" Height="450" Width="800">
+    <UniformGrid Name="grdNumber" Rows="3" Columns="3"
+
+            FlowDirection="LeftToRight">
+        <Button Background="Yellow" Content="1" FontSize="35"/>
+        <Button Background="Lavender" Content="2" FontSize="35"/>
+        <Button Background="Yellow" Content="3" FontSize="35"/>
+        <Button Background="Lavender" Content="4" FontSize="35"/>
+        <Button Background="Yellow" Content="5" FontSize="35"/>
+        <Button Background="Lavender" Content="6" FontSize="35"/>
+        <Button Background="Yellow" Content="7" FontSize="35"/>
+        <Button Background="Lavender" Content="8" FontSize="35"/>
+        <Button Background="Yellow" Content="9" FontSize="35"/>
+    </UniformGrid>
+   
+    
+</Window>

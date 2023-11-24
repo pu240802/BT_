@@ -1,0 +1,8 @@
+C:\Users\Nhat Phuong\source\repos\BT1\BT1\bin\Debug\BT1.exe.config
+C:\Users\Nhat Phuong\source\repos\BT1\BT1\bin\Debug\BT1.exe
+C:\Users\Nhat Phuong\source\repos\BT1\BT1\bin\Debug\BT1.pdb
+C:\Users\Nhat Phuong\source\repos\BT1\BT1\obj\Debug\BT1.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\BT1\BT1\obj\Debug\BT1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\BT1\BT1\obj\Debug\BT1.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\BT1\BT1\obj\Debug\BT1.exe
+C:\Users\Nhat Phuong\source\repos\BT1\BT1\obj\Debug\BT1.pdb

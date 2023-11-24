@@ -1,0 +1,12 @@
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\bin\Debug\LMT26_12.exe.config
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\bin\Debug\LMT26_12.exe
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\bin\Debug\LMT26_12.pdb
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\obj\Debug\LMT26_12.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\obj\Debug\LMT26_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\obj\Debug\LMT26_12.Form1.resources
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\obj\Debug\LMT26_12.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\obj\Debug\LMT26_12.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\obj\Debug\LMT26_12.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\obj\Debug\LMT26_12.exe
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\obj\Debug\LMT26_12.pdb
+C:\Users\Nhat Phuong\source\repos\LMT26_12\LMT26_12\obj\Debug\LMT26_12.csproj.ResolveComReference.cache

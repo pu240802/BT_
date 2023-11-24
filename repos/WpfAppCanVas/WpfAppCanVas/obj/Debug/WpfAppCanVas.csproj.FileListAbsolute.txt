@@ -1,0 +1,16 @@
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\bin\Debug\WpfAppCanVas.exe.config
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\bin\Debug\WpfAppCanVas.exe
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\bin\Debug\WpfAppCanVas.pdb
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\WpfAppCanVas.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\WpfAppCanVas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\MainWindow.g.cs
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\App.g.cs
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\WpfAppCanVas_MarkupCompile.cache
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\WpfAppCanVas_MarkupCompile.lref
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\MainWindow.baml
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\WpfAppCanVas.g.resources
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\WpfAppCanVas.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\WpfAppCanVas.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\WpfAppCanVas.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\WpfAppCanVas.exe
+C:\Users\Nhat Phuong\source\repos\WpfAppCanVas\WpfAppCanVas\obj\Debug\WpfAppCanVas.pdb

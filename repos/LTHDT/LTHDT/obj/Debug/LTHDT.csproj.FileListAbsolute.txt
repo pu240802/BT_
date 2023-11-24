@@ -1,0 +1,8 @@
+C:\Users\Nhat Phuong\source\repos\LTHDT\LTHDT\bin\Debug\LTHDT.exe.config
+C:\Users\Nhat Phuong\source\repos\LTHDT\LTHDT\bin\Debug\LTHDT.exe
+C:\Users\Nhat Phuong\source\repos\LTHDT\LTHDT\bin\Debug\LTHDT.pdb
+C:\Users\Nhat Phuong\source\repos\LTHDT\LTHDT\obj\Debug\LTHDT.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\LTHDT\LTHDT\obj\Debug\LTHDT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\LTHDT\LTHDT\obj\Debug\LTHDT.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\LTHDT\LTHDT\obj\Debug\LTHDT.exe
+C:\Users\Nhat Phuong\source\repos\LTHDT\LTHDT\obj\Debug\LTHDT.pdb

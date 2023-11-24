@@ -1,0 +1,11 @@
+C:\Users\Nhat Phuong\source\repos\Quan_li_ban_hang\Quan_li_ban_hang\bin\Debug\Quan_li_ban_hang.exe.config
+C:\Users\Nhat Phuong\source\repos\Quan_li_ban_hang\Quan_li_ban_hang\bin\Debug\Quan_li_ban_hang.exe
+C:\Users\Nhat Phuong\source\repos\Quan_li_ban_hang\Quan_li_ban_hang\bin\Debug\Quan_li_ban_hang.pdb
+C:\Users\Nhat Phuong\source\repos\Quan_li_ban_hang\Quan_li_ban_hang\obj\Debug\Quan_li_ban_hang.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\Quan_li_ban_hang\Quan_li_ban_hang\obj\Debug\Quan_li_ban_hang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\Quan_li_ban_hang\Quan_li_ban_hang\obj\Debug\Quan_li_ban_hang.Form1.resources
+C:\Users\Nhat Phuong\source\repos\Quan_li_ban_hang\Quan_li_ban_hang\obj\Debug\Quan_li_ban_hang.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\Quan_li_ban_hang\Quan_li_ban_hang\obj\Debug\Quan_li_ban_hang.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\Quan_li_ban_hang\Quan_li_ban_hang\obj\Debug\Quan_li_ban_hang.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\Quan_li_ban_hang\Quan_li_ban_hang\obj\Debug\Quan_li_ban_hang.exe
+C:\Users\Nhat Phuong\source\repos\Quan_li_ban_hang\Quan_li_ban_hang\obj\Debug\Quan_li_ban_hang.pdb

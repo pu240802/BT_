@@ -1,0 +1,8 @@
+C:\Users\Nhat Phuong\source\repos\Structure\Structure\bin\Debug\Structure.exe.config
+C:\Users\Nhat Phuong\source\repos\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\Nhat Phuong\source\repos\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\Nhat Phuong\source\repos\Structure\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\Structure\Structure\obj\Debug\Structure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\Structure\Structure\obj\Debug\Structure.exe
+C:\Users\Nhat Phuong\source\repos\Structure\Structure\obj\Debug\Structure.pdb

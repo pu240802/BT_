@@ -1,0 +1,14 @@
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\bin\Debug\HTTS.exe.config
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\bin\Debug\HTTS.exe
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\bin\Debug\HTTS.pdb
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\obj\Debug\HTTS.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\obj\Debug\HTTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\obj\Debug\HTTS.Form1.resources
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\obj\Debug\HTTS.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\obj\Debug\HTTS.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\obj\Debug\HTTS.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\obj\Debug\HTTS.exe
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\obj\Debug\HTTS.pdb
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\obj\Debug\HTTS.lensbd.resources
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\obj\Debug\HTTS.Nhapdiem.resources
+C:\Users\Nhat Phuong\source\repos\HTTS\HTTS\obj\Debug\HTTS.NhapHoSo.resources

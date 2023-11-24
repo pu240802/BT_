@@ -1,0 +1,11 @@
+C:\Users\Nhat Phuong\source\repos\The_doc_gia\The_doc_gia\bin\Debug\The_doc_gia.exe.config
+C:\Users\Nhat Phuong\source\repos\The_doc_gia\The_doc_gia\bin\Debug\The_doc_gia.exe
+C:\Users\Nhat Phuong\source\repos\The_doc_gia\The_doc_gia\bin\Debug\The_doc_gia.pdb
+C:\Users\Nhat Phuong\source\repos\The_doc_gia\The_doc_gia\obj\Debug\The_doc_gia.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\The_doc_gia\The_doc_gia\obj\Debug\The_doc_gia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\The_doc_gia\The_doc_gia\obj\Debug\The_doc_gia.Form1.resources
+C:\Users\Nhat Phuong\source\repos\The_doc_gia\The_doc_gia\obj\Debug\The_doc_gia.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\The_doc_gia\The_doc_gia\obj\Debug\The_doc_gia.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\The_doc_gia\The_doc_gia\obj\Debug\The_doc_gia.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\The_doc_gia\The_doc_gia\obj\Debug\The_doc_gia.exe
+C:\Users\Nhat Phuong\source\repos\The_doc_gia\The_doc_gia\obj\Debug\The_doc_gia.pdb

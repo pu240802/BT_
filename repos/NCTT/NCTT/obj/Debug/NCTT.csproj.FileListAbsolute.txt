@@ -1,0 +1,8 @@
+C:\Users\Nhat Phuong\source\repos\NCTT\NCTT\bin\Debug\NCTT.exe.config
+C:\Users\Nhat Phuong\source\repos\NCTT\NCTT\bin\Debug\NCTT.exe
+C:\Users\Nhat Phuong\source\repos\NCTT\NCTT\bin\Debug\NCTT.pdb
+C:\Users\Nhat Phuong\source\repos\NCTT\NCTT\obj\Debug\NCTT.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\NCTT\NCTT\obj\Debug\NCTT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\NCTT\NCTT\obj\Debug\NCTT.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\NCTT\NCTT\obj\Debug\NCTT.exe
+C:\Users\Nhat Phuong\source\repos\NCTT\NCTT\obj\Debug\NCTT.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nhat Phuong\source\repos\26_12_2\26_12_2\obj\Debug\26_12_2.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\26_12_2\26_12_2\obj\Debug\26_12_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\26_12_2\26_12_2\obj\Debug\_26_12_2.Form1.resources
+C:\Users\Nhat Phuong\source\repos\26_12_2\26_12_2\obj\Debug\_26_12_2.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\26_12_2\26_12_2\obj\Debug\26_12_2.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\26_12_2\26_12_2\obj\Debug\26_12_2.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\26_12_2\26_12_2\bin\Debug\26_12_2.exe.config
+C:\Users\Nhat Phuong\source\repos\26_12_2\26_12_2\bin\Debug\26_12_2.exe
+C:\Users\Nhat Phuong\source\repos\26_12_2\26_12_2\bin\Debug\26_12_2.pdb
+C:\Users\Nhat Phuong\source\repos\26_12_2\26_12_2\obj\Debug\26_12_2.exe
+C:\Users\Nhat Phuong\source\repos\26_12_2\26_12_2\obj\Debug\26_12_2.pdb

@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3819476E-FCCB-4114-88A3-BBE78D260E7B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VM_STYLE</RootNamespace>
+    <AssemblyName>VM_STYLE</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Baocaothongke.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Baocaothongke.Designer.cs">
+      <DependentUpon>Baocaothongke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill.Designer.cs">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chon_SP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Chon_SP.Designer.cs">
+      <DependentUpon>Chon_SP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThuNgan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThuNgan.Designer.cs">
+      <DependentUpon>FormThuNgan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khachhang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Khachhang.Designer.cs">
+      <DependentUpon>Khachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhanvien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Nhanvien.Designer.cs">
+      <DependentUpon>Nhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Quanlikho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Quanlikho.Designer.cs">
+      <DependentUpon>Quanlikho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quanlisanpham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Quanlisanpham.Designer.cs">
+      <DependentUpon>Quanlisanpham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trangchu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trangchu.Designer.cs">
+      <DependentUpon>Trangchu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Baocaothongke.resx">
+      <DependentUpon>Baocaothongke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill.resx">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chon_SP.resx">
+      <DependentUpon>Chon_SP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThuNgan.resx">
+      <DependentUpon>FormThuNgan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khachhang.resx">
+      <DependentUpon>Khachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhanvien.resx">
+      <DependentUpon>Nhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quanlikho.resx">
+      <DependentUpon>Quanlikho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quanlisanpham.resx">
+      <DependentUpon>Quanlisanpham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trangchu.resx">
+      <DependentUpon>Trangchu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secrecy-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secrecy-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secrecy-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secrecy-icon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secrecy-icon4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secrecy-icon5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secrecy-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ao_thun.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sowmi_nam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ao_khoat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phu_kien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jeans-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6071838_casual_clothing_casual clothing_dress casually_dress down_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\set.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8552321_uglysweater_sweater_tree_xmas_christmas_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\set1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8552321_uglysweater_sweater_tree_xmas_christmas_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recycle-Empty-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6123157_avatar_cashier_female_frontliner_grocery store worker_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6123157_avatar_cashier_female_frontliner_grocery store worker_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9320235_order_robot_interaction_untact_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notes-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recycle-Empty-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Close-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cashier-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6123157_avatar_cashier_female_frontliner_grocery store worker_icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cashier-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notes-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vang cham bi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vang cham bi1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vang chấm bi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vang cham bi2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vang cham bi3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vang cham bi4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vang chấm bi1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\bin\Debug\HardWare Info Windows.exe.config
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\bin\Debug\HardWare Info Windows.exe
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\bin\Debug\HardWare Info Windows.pdb
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\bin\Debug\MetroFramework.dll
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\obj\Debug\HardWare Info Windows.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\obj\Debug\HardWare Info Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\obj\Debug\HardWare_Info_Windows.Form1.resources
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\obj\Debug\HardWare_Info_Windows.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\obj\Debug\HardWare Info Windows.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\obj\Debug\HardWare Info Windows.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\obj\Debug\HardWare Info Windows.csproj.CopyComplete
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\obj\Debug\HardWare Info Windows.exe
+C:\Users\Nhat Phuong\source\repos\HardWare Info Windows\HardWare Info Windows\obj\Debug\HardWare Info Windows.pdb

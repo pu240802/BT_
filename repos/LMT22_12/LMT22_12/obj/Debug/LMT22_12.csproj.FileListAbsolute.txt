@@ -1,0 +1,11 @@
+C:\Users\Nhat Phuong\source\repos\LMT22_12\LMT22_12\obj\Debug\LMT22_12.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\LMT22_12\LMT22_12\obj\Debug\LMT22_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\LMT22_12\LMT22_12\obj\Debug\LMT22_12.Form1.resources
+C:\Users\Nhat Phuong\source\repos\LMT22_12\LMT22_12\obj\Debug\LMT22_12.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\LMT22_12\LMT22_12\obj\Debug\LMT22_12.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\LMT22_12\LMT22_12\obj\Debug\LMT22_12.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\LMT22_12\LMT22_12\bin\Debug\LMT22_12.exe.config
+C:\Users\Nhat Phuong\source\repos\LMT22_12\LMT22_12\bin\Debug\LMT22_12.exe
+C:\Users\Nhat Phuong\source\repos\LMT22_12\LMT22_12\bin\Debug\LMT22_12.pdb
+C:\Users\Nhat Phuong\source\repos\LMT22_12\LMT22_12\obj\Debug\LMT22_12.exe
+C:\Users\Nhat Phuong\source\repos\LMT22_12\LMT22_12\obj\Debug\LMT22_12.pdb

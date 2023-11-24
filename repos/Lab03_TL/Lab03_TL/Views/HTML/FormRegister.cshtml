@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewBag.Title = "FormRegister";
+}
+
+<h2>FormRegister</h2>
+@{ 
+    Html.BeginForm("Register", "HTML", FormMethod.Get);
+    <table class="table table-bordered">
+        
+        <tr><td><h5>THÔNG TIN VỀ ĐƠN VỊ TUYẾN</h5></td></tr>
+
+        <tr>
+            <td>@Html.Label("Tên Đơn Vị Tuyến(*)")</td>
+            <td>@Html.TextBox("txtTDVT")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Loại Hình Doanh Nghiệp")</td>
+            <td>@Html.DropDownList("Work", new SelectList(ViewBag.listWork, "ID", "Name"))</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Số Lượng Nhân viên")</td>
+            <td>@Html.TextBox("txtSLNV")</td>
+        </tr>
+
+        <tr>   <td><h5>THÔNG TIN LIÊN HỆ</h5></td></tr>
+        <tr>
+            <td>@Html.Label("Địa chỉ(*)")</td>
+            <td>@Html.TextBox("txtDiaChi")</td>
+        <tr>
+            <td>@Html.Label("Người liên hệ(*)")</td>
+            <td>@Html.TextBox("txtNgLH")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Số Điện Thoại(*)")</td>
+            <td>@Html.TextBox("txtSDT")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Số Fax")</td>
+            <td>@Html.TextBox("txtSFax")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Email")</td>
+            <td>@Html.TextBox("txtEmail")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Địa chỉ WebSite")</td>
+            <td>@Html.TextBox("txtWebSite")</td>
+        </tr>
+
+        <tr><td><h5>THÔNG TIN ĐĂNG NHẬP</h5></td></tr>
+        <tr>
+            <td>@Html.Label("Tên Đăng Nhập")</td>
+            <td>@Html.TextBox("txtTDN")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Mật Khẩu(*)")</td>
+            <td>@Html.TextBox("txtMK")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label(" Xác Nhậc Mật Khẩu(*)")</td>
+            <td>@Html.TextBox("txtXNMK")</td>
+        </tr>
+        <tr><td><h5>NHẬN F-MAIL</h5></td></tr>
+        <tr>
+            <td>@Html.Label("Nhận Thư điện tử")</td>
+            <td>@Html.CheckBox("Nhan") Nhận @Html.CheckBox("KhongNhan") Không Nhận</td>
+        </tr>
+        <tr>
+            <td></td>
+
+            <td><input type="submit" value="Cập Nhật"</td>
+       
+        </tr>
+    </table>
+    Html.EndForm();
+
+}
+

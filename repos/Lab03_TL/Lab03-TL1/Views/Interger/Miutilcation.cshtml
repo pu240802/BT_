@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Miutilcation";
+}
+
+<h2>In ra bảng cửu chương từ 2 đến 9</h2>
+@{
+    for (int i = 1; i < 10; i++)
+    {
+        <p>Bảng nhân @i</p>
+        for (int j = 0; j <= 10; j++)
+        {
+            int s = i * j;
+            <p>@i x @j = @s  </p>
+        }
+    }
+}
+

@@ -1,0 +1,11 @@
+C:\Users\Nhat Phuong\source\repos\HDMDIForm\HDMDIForm\bin\Debug\HDMDIForm.exe.config
+C:\Users\Nhat Phuong\source\repos\HDMDIForm\HDMDIForm\bin\Debug\HDMDIForm.exe
+C:\Users\Nhat Phuong\source\repos\HDMDIForm\HDMDIForm\bin\Debug\HDMDIForm.pdb
+C:\Users\Nhat Phuong\source\repos\HDMDIForm\HDMDIForm\obj\Debug\HDMDIForm.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\HDMDIForm\HDMDIForm\obj\Debug\HDMDIForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\HDMDIForm\HDMDIForm\obj\Debug\HDMDIForm.Form1.resources
+C:\Users\Nhat Phuong\source\repos\HDMDIForm\HDMDIForm\obj\Debug\HDMDIForm.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\HDMDIForm\HDMDIForm\obj\Debug\HDMDIForm.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\HDMDIForm\HDMDIForm\obj\Debug\HDMDIForm.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\HDMDIForm\HDMDIForm\obj\Debug\HDMDIForm.exe
+C:\Users\Nhat Phuong\source\repos\HDMDIForm\HDMDIForm\obj\Debug\HDMDIForm.pdb

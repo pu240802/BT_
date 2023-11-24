@@ -1,0 +1,8 @@
+C:\Users\Nhat Phuong\source\repos\BTVN1\BTVN1\obj\Debug\BTVN1.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\BTVN1\BTVN1\obj\Debug\BTVN1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\BTVN1\BTVN1\obj\Debug\BTVN1.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\BTVN1\BTVN1\bin\Debug\BTVN1.exe.config
+C:\Users\Nhat Phuong\source\repos\BTVN1\BTVN1\bin\Debug\BTVN1.exe
+C:\Users\Nhat Phuong\source\repos\BTVN1\BTVN1\bin\Debug\BTVN1.pdb
+C:\Users\Nhat Phuong\source\repos\BTVN1\BTVN1\obj\Debug\BTVN1.exe
+C:\Users\Nhat Phuong\source\repos\BTVN1\BTVN1\obj\Debug\BTVN1.pdb

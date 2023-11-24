@@ -1,0 +1,11 @@
+C:\Users\Nhat Phuong\source\repos\TextBox\TextBox\bin\Debug\TextBox.exe.config
+C:\Users\Nhat Phuong\source\repos\TextBox\TextBox\bin\Debug\TextBox.exe
+C:\Users\Nhat Phuong\source\repos\TextBox\TextBox\bin\Debug\TextBox.pdb
+C:\Users\Nhat Phuong\source\repos\TextBox\TextBox\obj\Debug\TextBox.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\TextBox\TextBox\obj\Debug\TextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\TextBox\TextBox\obj\Debug\TextBox.Form1.resources
+C:\Users\Nhat Phuong\source\repos\TextBox\TextBox\obj\Debug\TextBox.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\TextBox\TextBox\obj\Debug\TextBox.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\TextBox\TextBox\obj\Debug\TextBox.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\TextBox\TextBox\obj\Debug\TextBox.exe
+C:\Users\Nhat Phuong\source\repos\TextBox\TextBox\obj\Debug\TextBox.pdb

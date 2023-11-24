@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppCanvas2", "WpfAppCanvas2\WpfAppCanvas2.csproj", "{DA2962AD-BA98-41B3-87F3-125333752AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2962AD-BA98-41B3-87F3-125333752AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2962AD-BA98-41B3-87F3-125333752AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2962AD-BA98-41B3-87F3-125333752AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2962AD-BA98-41B3-87F3-125333752AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {869D9906-23CA-4296-9068-5FF54098B033}
+	EndGlobalSection
+EndGlobal

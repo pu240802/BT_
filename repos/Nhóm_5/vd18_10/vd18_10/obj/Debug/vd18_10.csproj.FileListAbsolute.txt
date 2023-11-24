@@ -1,0 +1,13 @@
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\bin\Debug\vd18_10.exe.config
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\bin\Debug\vd18_10.exe
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\bin\Debug\vd18_10.pdb
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\obj\Debug\vd18_10.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\obj\Debug\vd18_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\obj\Debug\vd18_10.Form1.resources
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\obj\Debug\vd18_10.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\obj\Debug\vd18_10.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\obj\Debug\vd18_10.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\obj\Debug\vd18_10.exe
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\obj\Debug\vd18_10.pdb
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\obj\Debug\vd18_10.Form2.resources
+C:\Users\Nhat Phuong\source\repos\vd18_10\vd18_10\obj\Debug\vd18_10.Form3.resources

@@ -1,0 +1,14 @@
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\bin\Debug\Weathers.exe.config
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\bin\Debug\Weathers.exe
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\bin\Debug\Weathers.pdb
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\obj\Debug\Weathers.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\obj\Debug\Weathers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\obj\Debug\Weathers.Form1.resources
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\obj\Debug\Weathers.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\obj\Debug\Weathers.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\obj\Debug\Weathers.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\obj\Debug\Weathers.csproj.CopyComplete
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\obj\Debug\Weathers.exe
+C:\Users\Nhat Phuong\source\repos\Weathers\Weathers\obj\Debug\Weathers.pdb

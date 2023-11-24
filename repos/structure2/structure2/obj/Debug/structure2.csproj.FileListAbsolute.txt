@@ -1,0 +1,8 @@
+C:\Users\Nhat Phuong\source\repos\structure2\structure2\obj\Debug\structure2.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\structure2\structure2\obj\Debug\structure2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\structure2\structure2\obj\Debug\structure2.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\structure2\structure2\bin\Debug\structure2.exe.config
+C:\Users\Nhat Phuong\source\repos\structure2\structure2\bin\Debug\structure2.exe
+C:\Users\Nhat Phuong\source\repos\structure2\structure2\bin\Debug\structure2.pdb
+C:\Users\Nhat Phuong\source\repos\structure2\structure2\obj\Debug\structure2.exe
+C:\Users\Nhat Phuong\source\repos\structure2\structure2\obj\Debug\structure2.pdb

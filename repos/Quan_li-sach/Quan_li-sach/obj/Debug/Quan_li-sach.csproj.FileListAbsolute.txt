@@ -1,0 +1,11 @@
+C:\Users\Nhat Phuong\source\repos\Quan_li-sach\Quan_li-sach\bin\Debug\Quan_li-sach.exe.config
+C:\Users\Nhat Phuong\source\repos\Quan_li-sach\Quan_li-sach\bin\Debug\Quan_li-sach.exe
+C:\Users\Nhat Phuong\source\repos\Quan_li-sach\Quan_li-sach\bin\Debug\Quan_li-sach.pdb
+C:\Users\Nhat Phuong\source\repos\Quan_li-sach\Quan_li-sach\obj\Debug\Quan_li-sach.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\Quan_li-sach\Quan_li-sach\obj\Debug\Quan_li-sach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\Quan_li-sach\Quan_li-sach\obj\Debug\Quan_li_sach.Form1.resources
+C:\Users\Nhat Phuong\source\repos\Quan_li-sach\Quan_li-sach\obj\Debug\Quan_li_sach.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\Quan_li-sach\Quan_li-sach\obj\Debug\Quan_li-sach.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\Quan_li-sach\Quan_li-sach\obj\Debug\Quan_li-sach.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\Quan_li-sach\Quan_li-sach\obj\Debug\Quan_li-sach.exe
+C:\Users\Nhat Phuong\source\repos\Quan_li-sach\Quan_li-sach\obj\Debug\Quan_li-sach.pdb

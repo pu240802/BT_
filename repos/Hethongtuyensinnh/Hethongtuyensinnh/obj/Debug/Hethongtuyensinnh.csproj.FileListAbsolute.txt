@@ -1,0 +1,12 @@
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\bin\Debug\Hethongtuyensinnh.exe.config
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\bin\Debug\Hethongtuyensinnh.exe
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\bin\Debug\Hethongtuyensinnh.pdb
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\obj\Debug\Hethongtuyensinnh.csproj.AssemblyReference.cache
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\obj\Debug\Hethongtuyensinnh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\obj\Debug\Hethongtuyensinnh.Form1.resources
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\obj\Debug\Hethongtuyensinnh.Properties.Resources.resources
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\obj\Debug\Hethongtuyensinnh.csproj.GenerateResource.cache
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\obj\Debug\Hethongtuyensinnh.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\obj\Debug\Hethongtuyensinnh.exe
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\obj\Debug\Hethongtuyensinnh.pdb
+C:\Users\Nhat Phuong\source\repos\Hethongtuyensinnh\Hethongtuyensinnh\obj\Debug\Hethongtuyensinnh.Trangchu.resources
